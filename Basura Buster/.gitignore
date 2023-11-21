@@ -1,0 +1,36 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio
+.vscode/
+.vs/
+/*.suo
+/*.user
+/*.userosscache
+/*.sln.docstates
+
+# Rider
+.idea/
+
+# User-specific files
+*.user
+*.userprefs
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
